@@ -65,6 +65,11 @@ nnoremap <silent> <D-t> :tabnew<CR>
 "switch between windows
 nnoremap <silent> <D-j> <C-w><C-w>
 
+"map cmd+X -> ctrl+X because of mac idiocy
+nnoremap <silent> <D-d> <C-d>
+nnoremap <silent> <D-u> <C-u>
+nnoremap <silent> <D-r> <C-r>
+
 " Space will toggle folds!
 nnoremap <space> za
 
