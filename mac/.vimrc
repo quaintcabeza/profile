@@ -23,7 +23,7 @@ let g:explStartRight=0 " Put new explorer window to the left of the current wind
 set et
 set ai
 set cin
-set cinoptions=1lg2h2(0J1
+set cinoptions=1lg2h2(0J1j1
 set ru
 set bs=indent,eol,start
 set sw=4  "this is the level of autoindent, adjust to taste
