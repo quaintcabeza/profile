@@ -80,6 +80,29 @@ nnoremap : ;
 nnoremap <C-p> "+p
 nnoremap <D-k> "+p
 
+"page up and down
+nnoremap tj <C-d>
+nnoremap tk <C-u>
+
+"new tab, close tab
+nnoremap tt :tabnew<CR>
+nnoremap cc :tabnew<CR>
+
+"tab backwards
+nnoremap gr gT
+
+"switch between windows
+nnoremap vv <C-w><C-w>
+
+"redo
+nnoremap rr <C-r>
+
+"save with ss
+nnoremap ss :w<CR>
+
+"never move up to press escape!
+inoremap jk <Esc>
+
 filetype plugin on
 
 command Nt :NERDTree
