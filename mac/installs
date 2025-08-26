@@ -5,6 +5,8 @@ python
 ruff
 powerlevel10k
 neovim
+direnv
+
 
 xcode
 xcode command line tools
