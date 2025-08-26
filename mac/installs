@@ -4,6 +4,7 @@ uv
 python
 ruff
 powerlevel10k
+neovim
 
 xcode
 xcode command line tools
