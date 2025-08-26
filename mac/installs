@@ -1,5 +1,13 @@
+iterm2
+homebrew
+uv
+python
+ruff
+powerlevel10k
+
 xcode
 xcode command line tools
+
 
 Vim
 ---
